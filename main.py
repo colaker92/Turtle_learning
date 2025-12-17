@@ -37,8 +37,10 @@ turtle.done()
 
 '''
 
-
+'''
 # Star yani YILDIZ çizimi
+
+# uzun yolu
 
 turtle_instance = turtle.Turtle()
 turtle_instance.forward(100)
@@ -53,3 +55,12 @@ turtle_instance.forward(100)
 turtle_instance.left(36)
 
 turtle.done()
+'''
+
+# loop ile yapımı test
+turtle_instance = turtle.Turtle()
+for i in range(5):
+    turtle_instance.right(144)
+    turtle_instance.forward(100)
+turtle.done()
+
