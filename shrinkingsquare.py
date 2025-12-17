@@ -26,3 +26,4 @@ shrinkingSquare(40)
 shrinkingSquare(20)
 
 turtle.done()
+
