@@ -65,6 +65,7 @@ for i in range(5):
 turtle.done()
 '''
 
+'''
 # polygon yapımı
 
 # matematik formülü ile çizim
@@ -78,5 +79,9 @@ for i in range(num_sides):
     turtle_instance.right(angle)
     turtle_instance.forward(side_lenght)
 turtle.done()
+'''
+
+
+
 
 
